@@ -4,7 +4,7 @@ title: What is the —save option for npm install?
 slug: posts/what-is-the-save-option-for-npm-install
 draft: false
 date: 2019-12-20T11:21:08.051Z
-description: "As of\_[npm 5.0.0](http://blog.npmjs.org/post/161081169345/v500), installed modules are added as a dependency by default, so the\_`--save`\_option is no longer needed. The other save options still exist and are listed in the\_[documentation](https://docs.npmjs.com/cli/install)\_for\_`npm install`."
+description: "Installed modules are added as a dependency by default, so the\_\"--save\"\_option is no longer needed. The other save options still exist and are listed in the\_documentation\_for\_\"npm install\"."
 category: NPM
 tags:
   - npm
